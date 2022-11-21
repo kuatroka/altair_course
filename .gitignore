@@ -1,0 +1,13 @@
+venv/
+data/
+.vscode
+
+
+# *.txt
+# *.db
+# *.csv
+# *.parquet
+
+
+
+
